@@ -6,7 +6,7 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
-The link for the public wandb project associated to this work is https://wandb.ai/joaotnog/nyc_airbnb/overview?workspace=user-joaotnog .
+The links for the public wandb project and github address associated to this work are https://wandb.ai/joaotnog/nyc_airbnb/overview?workspace=user-joaotnog and https://github.com/joaotnog/nd0821-c2-build-model-workflow-starter .
 
 ## Table of contents
 
